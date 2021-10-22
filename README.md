@@ -9,4 +9,4 @@
 <li>Etc.</li>
 </ul>
 
-<img></img>
+<img src="https://user-images.githubusercontent.com/85928033/138501961-b90a430d-2551-489d-866f-94529dc63048.png"></img>
